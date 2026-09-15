@@ -18,14 +18,14 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Steal and Hatch Anime Eggs Wiki",
+  shortName: "Steal and Hatch Anime Eggs",
+  logoText: "SHA",
+  tagline: "Codes, Pets, Eggs, Strategies & Guides",
+  description: "Steal and Hatch Anime Eggs Wiki provides Roblox codes, pet guides, egg locations, updates, strategies, and beginner tips to help players hatch rare anime pets faster.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://stealandhatchanimeeggs.top",
+  gameUrl: "https://www.roblox.com/games/104764835849887/Steal-and-Hatch-Anime-Eggs",
+  heroVideoId: "1GKbef-KDIs", // Popular gameplay video: I Started Over And Stole Rarest Divine Egg
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
