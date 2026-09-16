@@ -6,7 +6,16 @@
     "description": "Steal and Hatch Anime Eggs Wiki provides Roblox codes, pet guides, egg locations, updates, strategies, and beginner tips to help players hatch rare anime pets faster.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "progression": "Progression",
+    "characters": "Characters",
+    "community": "Community",
+    "controls": "Controls"
+  },
   "home": {
     "meta": {
       "title": "Steal and Hatch Anime Eggs Wiki — Codes, Eggs, Pets & Guides",
@@ -366,7 +375,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -402,5 +410,37 @@
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Codes",
+    "overviewDescription": "Explore all active and working redeem codes for Steal and Hatch Anime Eggs to get free boosts, currency, and rewards."
+  },
+  "guide": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Guides",
+    "overviewDescription": "Complete walkthroughs, beginner tutorials, and strategy guides for Steal and Hatch Anime Eggs."
+  },
+  "mechanics": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Mechanics",
+    "overviewDescription": "In-depth breakdown of core game mechanics including egg hatching, stealing stealth, rift events, and boss battles."
+  },
+  "items": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Items & Eggs",
+    "overviewDescription": "Comprehensive index of egg rarities, divine eggs, secret drops, and consumable items in Steal and Hatch Anime Eggs."
+  },
+  "progression": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Progression",
+    "overviewDescription": "Leveling routes, fast cash farming methods, and milestone rewards in Steal and Hatch Anime Eggs."
+  },
+  "characters": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Characters & Pets",
+    "overviewDescription": "Complete database of anime pets, secret companions, divine stats, and companion traits in Steal and Hatch Anime Eggs."
+  },
+  "community": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Community",
+    "overviewDescription": "Official Discord server, trading hubs, private servers, and update logs for Steal and Hatch Anime Eggs."
+  },
+  "controls": {
+    "overviewTitle": "Steal and Hatch Anime Eggs Controls & Tutorial",
+    "overviewDescription": "PC and mobile control schemes, first-time tutorials, and interface guides for Steal and Hatch Anime Eggs."
   }
 }

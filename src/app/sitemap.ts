@@ -8,7 +8,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://stealandhatchanimeeggs.top";
 
   // Static paths that always exist
-  const staticPaths = ["/", "/races", "/bosses", "/codes", "/guide", "/tier-list", "/maps", "/skills", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  const staticPaths = [
+    "/",
+    "/codes",
+    "/guide",
+    "/mechanics",
+    "/items",
+    "/progression",
+    "/characters",
+    "/community",
+    "/controls",
+    "/privacy-policy",
+    "/terms-of-service",
+    "/copyright",
+    "/about",
+  ];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");
