@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Steal and Hatch Anime Eggs Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Steal and Hatch Anime Eggs guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Steal and Hatch Anime Eggs Wiki — Codes, Eggs, Pets & Guides",
+      "description": "Complete Steal and Hatch Anime Eggs guide on Roblox with active working codes, egg locations, anime pets tier list, hatching mechanics, and speed training tips."
     },
     "hero": {
       "eyebrow": "Anime Egg Hatch Roblox Simulator",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn how to steal anime eggs, avoid guardians, return safely to your base, and hatch powerful companions."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "All Working Codes",
+          "description": "Redeem active promo codes for free cash, speed boosts, and exclusive starter luck multipliers."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fastest Speed & Money",
+          "description": "Train on treadmills, level up your movement speed, and farm cash efficiently to reach endgame zones."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Steal and Hatch Anime Eggs."
+          "title": "Egg Hatching & Divine Pets",
+          "description": "Discover egg spawn locations, hatching requirements, and odds for secret and divine anime units."
         }
       ]
     },
@@ -62,78 +62,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "All Active Codes",
+        "Divine Eggs List",
+        "Anime Pets Tier List"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need to know about stealing eggs, avoiding guardians, and early base progression.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "All working codes with free cash, speed boosts, and lucky hatch multipliers.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Egg Rarity & Divine Eggs",
+          "description": "Full list of eggs, spawn biomes, hatch timers, and secret egg odds.",
+          "href": "/items/steal-and-hatch-anime-eggs-divine-eggs"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Anime Pets Tier List",
+          "description": "Every collectible anime unit ranked by cash multiplier, speed boost, and rarity.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Guide",
+          "title": "Fastest Speed Progression",
+          "description": "Optimal treadmill training routes, stamina upgrades, and biome unlock requirements.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Mechanics",
+          "title": "How to Hatch Guide",
+          "description": "Step-by-step walkthrough of base incubation chambers, timer reductions, and pet equips.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Steal and Hatch Anime Eggs?",
       "paragraphs": [
-        "Steal and Hatch Anime Eggs is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Steal and Hatch Anime Eggs is an exciting Roblox anime simulator game where players venture into dangerous egg zones, steal high-rarity anime eggs, and race back to their personal incubation bases. Upgrade your movement speed and treadmills to outrun guardians and rival players across diverse biomes.",
+        "Hatch your stolen eggs to unlock legendary, secret, and divine anime companions that generate passive cash and provide powerful stat boosts. Master speed progression, defeat rift bosses, and build the ultimate anime pet collection with our complete guides, tables, and community strategies."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Studio Anime"
         },
         {
           "label": "Platform",
@@ -141,158 +123,211 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Anime Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Egg Rarities",
+          "value": "Common to Divine"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Active Codes",
+          "value": "Updated Weekly"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Core Loop",
+          "value": "Steal, Speed, Hatch"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Steal and Hatch Anime Eggs Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your journey in Steal and Hatch Anime Eggs on Roblox with active codes, hatching guides, complete anime pets tier lists, and optimal speed progression strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "Steal and Hatch Anime Eggs Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Steal and Hatch Anime Eggs Codes",
+          "description": "Provide the latest available redeem codes, event codes, and reward information for players searching for free boosts or items. This module can be updated alongside official announcements and community events.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "RELEASE",
+              "detail": "Free Cash & Speed Boost",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "ANIME",
+              "detail": "2x Hatch Luck Multiplier",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "DIVINE",
+              "detail": "100 Gems & Secret Egg Chance",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Steal and Hatch Anime Eggs Beginner Guide",
+          "description": "Explain the core gameplay loop including stealing eggs, returning safely, hatching anime units, earning money, upgrading bases, and improving progression. This helps new players understand the fastest way to start.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Sneak into egg spawns and grab the highest rarity egg you can carry"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Sprint back to your base incubator without getting caught by guardians"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Place eggs into hatch incubators and wait for the countdown timer"
+            },
+            {
+              "label": "4",
+              "detail": "Equip hatched anime pets to boost cash income and training efficiency"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Steal and Hatch Anime Eggs Anime Tier List",
+          "description": "Rank collectible anime units by rarity, income value, usefulness, and progression impact. Players can quickly understand which hatch results are worth keeping or replacing.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Divine & Secret Anime Pets with 100x+ Cash Multipliers"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Legendary & Mythic Pets offering high income and speed bonuses"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Epic & Rare Companions ideal for mid-game biome progression"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Common & Uncommon Starter Pets to kickstart early hatching"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Steal and Hatch Anime Eggs Egg List",
+          "description": "Show available eggs, their locations, rarity chances, and possible anime rewards. This module targets players searching for specific eggs and collection information.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-eggs",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Common",
+              "detail": "Starter Grass Biome (10s hatch time, standard multiplier)"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Rare",
+              "detail": "Forest Zone (30s hatch time, 3x income multiplier)"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Epic",
+              "detail": "Desert Biome (60s hatch time, 10x income multiplier)"
+            },
+            {
+              "label": "Divine",
+              "detail": "Sky Temple & Rift (300s hatch time, massive rewards)"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Steal and Hatch Anime Eggs How to Hatch",
+          "description": "Cover the complete hatching process, including obtaining eggs, placing them correctly, waiting for results, and managing new anime units. It answers common gameplay questions from new players.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Clear incubator slots at your home base before egg expeditions"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Deposit stolen eggs into active incubation chambers"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Use speed boosts or gems to reduce hatch waiting duration"
+            },
+            {
+              "label": "4",
+              "detail": "Hatch and equip the pet into your active collection slot"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Steal and Hatch Anime Eggs Speed Guide",
+          "description": "Explain how speed training works, how treadmill upgrades affect progression, and how players can reach better egg areas faster. This targets progression-focused searches.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Treadmill",
+              "detail": "Train passive speed multipliers during downtime"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Upgrades",
+              "detail": "Invest early cash into stamina and carry capacity"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Biomes",
+              "detail": "Unlock higher speed requirements to enter divine zones"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Steal and Hatch Anime Eggs Updates",
+          "description": "Collect official update information, new eggs, new anime units, events, and gameplay changes. This section helps returning players track new content.",
+          "href": "/community/steal-and-hatch-anime-eggs-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rift",
+              "detail": "Update 3 introduced Rift Bosses and token exchanges"
+            },
+            {
+              "label": "Divine",
+              "detail": "New Divine Anime Eggs added with secret pet drops"
+            },
+            {
+              "label": "Balances",
+              "detail": "Treadmill training rates boosted across all biomes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Steal and Hatch Anime Eggs Discord and Community",
+          "description": "Provide official community channels and social links when available, helping players find announcements, discussions, and event information. Only verified developer-managed communities should be listed.",
+          "href": "/community/steal-and-hatch-anime-eggs-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Official developer server for codes and update logs"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Community group for daily member rewards and perks"
+            },
+            {
+              "label": "Trading",
+              "detail": "Player market for exchanging rare and divine pets"
             }
           ]
         }
@@ -304,23 +339,23 @@
       "items": [
         {
           "question": "What is Steal and Hatch Anime Eggs?",
-          "answer": "Steal and Hatch Anime Eggs is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Steal and Hatch Anime Eggs is a popular Roblox simulator game where players infiltrate egg biomes, steal eggs, return them safely to incubators, and hatch powerful anime pets to boost speed and earnings."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I get Divine and Secret eggs in Steal and Hatch Anime Eggs?",
+          "answer": "In Steal and Hatch Anime Eggs, Divine and Secret eggs spawn in high-tier zones such as the Sky Temple and during limited-time Rift events. You need high speed stats to outrun guardians and carry them back."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I find active codes for Steal and Hatch Anime Eggs?",
+          "answer": "You can find all verified, active codes for Steal and Hatch Anime Eggs on our dedicated Codes page. Codes provide free cash, speed boosts, and lucky hatch multipliers."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best way to level up speed in Steal and Hatch Anime Eggs?",
+          "answer": "The fastest way to increase speed in Steal and Hatch Anime Eggs is to equip high-rarity anime pets, train on upgraded treadmills at base, and spend earned cash on speed training multipliers."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you trade pets with other players in Steal and Hatch Anime Eggs?",
+          "answer": "Yes, Steal and Hatch Anime Eggs features trading mechanics in the central hub, allowing players to exchange rare anime pets, divine eggs, and progression items."
         }
       ]
     },
