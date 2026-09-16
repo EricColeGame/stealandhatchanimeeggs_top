@@ -1,1 +1,446 @@
-{}
+{
+  "site": {
+    "name": "Steal and Hatch Anime Eggs Wiki",
+    "shortName": "Steal and Hatch Anime Eggs",
+    "tagline": "Códigos, Mascotas, Huevos, Estrategias y Guías",
+    "description": "Steal and Hatch Anime Eggs Wiki ofrece códigos de Roblox, guías de mascotas, ubicaciones de huevos, actualizaciones, estrategias y consejos para incubar mascotas anime raras más rápido.",
+    "legalNotice": "Wiki no oficial de fans. Creada por jugadores, para jugadores."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "items": "Objetos",
+    "progression": "Progresión",
+    "characters": "Personajes",
+    "community": "Comunidad",
+    "controls": "Controles"
+  },
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles todavía. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Steal and Hatch Anime Eggs Wiki",
+    "about": "Steal and Hatch Anime Eggs Wiki es un centro de guías independiente hecho por fans que cubre ubicaciones de huevos, niveles de mascotas, códigos, estrategias de mejora y jugabilidad esencial en este simulador de Roblox.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Steal and Hatch Anime Eggs Wiki. No afiliado con Roblox ni con los desarrolladores del juego.",
+    "description": "Wiki del simulador anime de Roblox. Colecciona huevos, incuba mascotas anime legendarias y comercia.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Planificador de Mascotas",
+    "beginnerGuide": "Guía de Principiantes",
+    "raceGuides": "Guías de Carrera",
+    "bossGuides": "Guías de Jefes",
+    "buildGuide": "Guía de Builds",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Explora todos los códigos activos y funcionales de Steal and Hatch Anime Eggs para conseguir mejoras, monedas y recompensas gratis."
+  },
+  "guide": {
+    "overviewTitle": "Guías de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Tutoriales completos para principiantes, guías paso a paso y estrategias para Steal and Hatch Anime Eggs."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Análisis detallado de las mecánicas centrales del juego, incluyendo la incubación de huevos, el sigilo al robar, eventos de fisuras y batallas de jefes."
+  },
+  "items": {
+    "overviewTitle": "Objetos y Huevos de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Índice completo de rarezas de huevos, huevos divinos, botines secretos y objetos consumibles en Steal and Hatch Anime Eggs."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Steal and Hatch Anime Eggs",
+    "overviewDescription": "Rutas de nivel, métodos de farmeo rápido de dinero y recompensas por hitos en Steal and Hatch Anime Eggs."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y Mascotas de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Base de datos completa de mascotas anime, compañeros secretos, atributos divinos y rasgos especiales en Steal and Hatch Anime Eggs."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Servidor oficial de Discord, centros de intercambio, servidores privados y registros de actualización de Steal and Hatch Anime Eggs."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Tutorial de Steal and Hatch Anime Eggs",
+    "overviewDescription": "Esquemas de control para PC y móvil, tutoriales de inicio y guías de interfaz para Steal and Hatch Anime Eggs."
+  },
+  "home": {
+    "meta": {
+      "title": "Steal and Hatch Anime Eggs Wiki — Códigos, Huevos, Mascotas y Guías",
+      "description": "Guía completa de Steal and Hatch Anime Eggs en Roblox con códigos activos, ubicaciones de huevos, lista de niveles de mascotas anime, mecánicas de incubación y consejos de velocidad."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Huevos Anime en Roblox",
+      "title": "Steal and Hatch Anime Eggs Wiki",
+      "description": "Steal and Hatch Anime Eggs es un juego simulador anime de Roblox donde los jugadores recolectan huevos, incuban poderosas mascotas anime, descubren criaturas raras y forman equipos más fuertes mediante mejoras.",
+      "stats": [
+        "Simulador Roblox",
+        "Colección de Mascotas Anime",
+        "Códigos Activos",
+        "Actualizaciones Semanales"
+      ],
+      "primaryCta": "Jugar en Roblox",
+      "secondaryCta": "Guía de Principiantes",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Aventura en Steal and Hatch Anime Eggs",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía de Principiantes",
+          "description": "Aprende a robar huevos anime, esquivar guardianes, regresar a salvo a tu base e incubar poderosos compañeros."
+        },
+        {
+          "number": "2",
+          "title": "Todos los Códigos Activos",
+          "description": "Canjea códigos promocionales activos para obtener dinero gratis, aumentos de velocidad y multiplicadores de suerte inicial."
+        },
+        {
+          "number": "3",
+          "title": "Velocidad y Dinero Rápidos",
+          "description": "Entrena en cintas de correr, sube de nivel tu velocidad de movimiento y farmea dinero eficientemente para alcanzar zonas avanzadas."
+        },
+        {
+          "number": "4",
+          "title": "Incubación de Huevos y Mascotas Divinas",
+          "description": "Descubre ubicaciones de aparición de huevos, requisitos de incubación y probabilidades para unidades anime secretas y divinas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Guía de Principiantes",
+        "Todos los Códigos Activos",
+        "Lista de Huevos Divinos",
+        "Tier List de Mascotas Anime"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía de Principiantes",
+          "description": "Todo lo que necesitas saber sobre robar huevos, evitar guardianes y la progresión inicial de tu base.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos que funcionan con dinero gratis, mejoras de velocidad y multiplicadores de suerte al incubar.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Rareza de Huevos y Huevos Divinos",
+          "description": "Lista completa de huevos, biomas de aparición, temporizadores de eclosión y probabilidades de huevos secretos.",
+          "href": "/items/steal-and-hatch-anime-eggs-divine-eggs"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier List de Mascotas Anime",
+          "description": "Cada unidad anime coleccionable clasificada por multiplicador de dinero, aumento de velocidad y rareza.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets"
+        },
+        {
+          "badge": "Guía",
+          "title": "Progresión de Velocidad Más Rápida",
+          "description": "Rutas óptimas de entrenamiento en cinta, mejoras de resistencia y requisitos de desbloqueo de biomas.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Guía de Cómo Incubar",
+          "description": "Paso a paso de las cámaras de incubación de la base, reducción de tiempo y equipamiento de mascotas.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Steal and Hatch Anime Eggs?",
+      "paragraphs": [
+        "Steal and Hatch Anime Eggs es un emocionante juego simulador anime de Roblox donde los jugadores se adentran en zonas peligrosas, roban huevos anime de gran rareza y corren de vuelta a sus bases de incubación. Mejora tu velocidad de movimiento y cintas de correr para superar a los guardianes y a otros jugadores en diversos biomas.",
+        "Incuba tus huevos robados para desbloquear compañeros anime legendarios, secretos y divinos que generan dinero pasivo y otorgan aumentos de estadísticas. Domina la progresión de velocidad, derrota a jefes de fisuras y crea la colección definitiva de mascotas anime con nuestras guías completas, tablas y estrategias de la comunidad."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Studio Anime"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador Anime"
+        },
+        {
+          "label": "Rarezas de Huevos",
+          "value": "Común a Divino"
+        },
+        {
+          "label": "Códigos Activos",
+          "value": "Actualizados Semanalmente"
+        },
+        {
+          "label": "Bucle Central",
+          "value": "Robar, Velocidad, Incubar"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explorar la Wiki de Steal and Hatch Anime Eggs",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Steal and Hatch Anime Eggs Códigos",
+          "description": "Ofrece los últimos códigos canjeables disponibles, códigos de eventos e información de recompensas para jugadores que buscan mejoras o artículos gratis.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Dinero Gratis y Aumento de Velocidad",
+              "badge": "Activo"
+            },
+            {
+              "label": "ANIME",
+              "detail": "Multiplicador de Suerte de Incubación 2x",
+              "badge": "Activo"
+            },
+            {
+              "label": "DIVINE",
+              "detail": "100 Gemas y Probabilidad de Huevo Secreto",
+              "badge": "Activo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Steal and Hatch Anime Eggs Guía de Principiantes",
+          "description": "Aprende el bucle de juego principal: infiltrarte en áreas de huevos, regresar a tu base e incubar tus primeras mascotas anime.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Infíltrate en los puntos de aparición y toma el huevo de mayor rareza que puedas cargar"
+            },
+            {
+              "label": "2",
+              "detail": "Corre a toda velocidad hacia la incubadora de tu base sin que te atrapen los guardianes"
+            },
+            {
+              "label": "3",
+              "detail": "Coloca los huevos en las incubadoras y espera la cuenta regresiva"
+            },
+            {
+              "label": "4",
+              "detail": "Equipa las mascotas anime incubadas para aumentar los ingresos y la eficiencia del entrenamiento"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Steal and Hatch Anime Eggs Tier List de Anime",
+          "description": "Compara todas las mascotas anime coleccionables según multiplicadores de dinero, mejoras de velocidad y rareza general.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mascotas Divinas y Secretas con multiplicadores de 100x+ de dinero"
+            },
+            {
+              "label": "A",
+              "detail": "Mascotas Legendarias y Míticas con altos bonos de velocidad e ingresos"
+            },
+            {
+              "label": "B",
+              "detail": "Compañeros Épicos y Raros ideales para la progresión a mitad de juego"
+            },
+            {
+              "label": "C",
+              "detail": "Mascotas Comunes y Poco Comunes de inicio para empezar a incubar"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Steal and Hatch Anime Eggs Lista de Huevos",
+          "description": "Examina cada tipo de huevo, zonas de aparición, temporizadores de incubación y costes asociados.",
+          "href": "/items/steal-and-hatch-anime-eggs-divine-eggs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Común",
+              "detail": "Bioma Inicial de Hierba (10s tiempo de eclosión, multiplicador estándar)"
+            },
+            {
+              "label": "Raro",
+              "detail": "Zona Bosque (30s tiempo de eclosión, multiplicador de ingresos 3x)"
+            },
+            {
+              "label": "Épico",
+              "detail": "Bioma Desierto (60s tiempo de eclosión, multiplicador de ingresos 10x)"
+            },
+            {
+              "label": "Divino",
+              "detail": "Templo del Cielo y Fisura (300s tiempo de eclosión, recompensas masivas)"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Steal and Hatch Anime Eggs Cómo Incubar",
+          "description": "Optimiza los tiempos de incubación en tu base usando mejoras, gemas y potenciamientos.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Libera espacios en las incubadoras de tu base antes de salir a buscar huevos"
+            },
+            {
+              "label": "2",
+              "detail": "Deposita los huevos robados en las cámaras de incubación activas"
+            },
+            {
+              "label": "3",
+              "detail": "Usa mejoras de velocidad o gemas para reducir la duración de la espera"
+            },
+            {
+              "label": "4",
+              "detail": "Incuba y equipa la mascota en la ranura de tu colección activa"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Steal and Hatch Anime Eggs Guía de Velocidad",
+          "description": "Estrategias completas de entrenamiento en cintas de correr para aumentar la velocidad y desbloquear nuevos biomas.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Treadmill",
+              "detail": "Entrena multiplicadores pasivos de velocidad durante los tiempos muertos"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Invierte dinero inicial en resistencia y capacidad de carga"
+            },
+            {
+              "label": "Biomes",
+              "detail": "Desbloquea mayores requisitos de velocidad para entrar en zonas divinas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Steal and Hatch Anime Eggs Actualizaciones",
+          "description": "Sigue las notas de parches recientes, eventos de temporada y cambios de equilibrio para mantenerte al día.",
+          "href": "/community/steal-and-hatch-anime-eggs-update-log",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rift",
+              "detail": "La actualización 3 introdujo Jefes de Fisura y canjes de fichas"
+            },
+            {
+              "label": "Divine",
+              "detail": "Se agregaron nuevos Huevos Anime Divinos con mascotas secretas"
+            },
+            {
+              "label": "Balances",
+              "detail": "Tasas de entrenamiento en cinta mejoradas en todos los biomas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Steal and Hatch Anime Eggs Discord y Comunidad",
+          "description": "Conéctate con la comunidad de jugadores, únete al servidor oficial de Discord y encuentra compañeros para comerciar.",
+          "href": "/community/steal-and-hatch-anime-eggs-discord-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Servidor oficial de desarrolladores para códigos y registros de actualización"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Grupo de la comunidad para recompensas y ventajas diarias de miembros"
+            },
+            {
+              "label": "Trading",
+              "detail": "Mercado de jugadores para intercambiar mascotas raras y divinas"
+            }
+          ]
+        }
+      ],
+      "description": "Explora códigos activos, guías paso a paso, clasificaciones de mascotas y bases de datos de huevos para Steal and Hatch Anime Eggs."
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Steal and Hatch Anime Eggs.",
+      "items": [
+        {
+          "question": "¿Qué es Steal and Hatch Anime Eggs?",
+          "answer": "Steal and Hatch Anime Eggs es un popular simulador de Roblox donde los jugadores se infiltran en biomas de huevos, roban huevos, los llevan a salvo a las incubadoras e incuban poderosas mascotas anime para aumentar la velocidad y las ganancias."
+        },
+        {
+          "question": "¿Cómo consigo huevos Divinos y Secretos en Steal and Hatch Anime Eggs?",
+          "answer": "En Steal and Hatch Anime Eggs, los huevos Divinos y Secretos aparecen en zonas de alto nivel como el Templo del Cielo y durante eventos de Fisuras de tiempo limitado. Necesitas altas estadísticas de velocidad para superar a los guardianes y llevarlos de regreso."
+        },
+        {
+          "question": "¿Dónde puedo encontrar códigos activos para Steal and Hatch Anime Eggs?",
+          "answer": "Puedes encontrar todos los códigos activos y verificados de Steal and Hatch Anime Eggs en nuestra página dedicada de Códigos. Los códigos ofrecen dinero gratis, aumentos de velocidad y multiplicadores de suerte al incubar."
+        },
+        {
+          "question": "¿Cuál es la mejor manera de subir de nivel la velocidad en Steal and Hatch Anime Eggs?",
+          "answer": "La forma más rápida de aumentar la velocidad en Steal and Hatch Anime Eggs es equipar mascotas anime de alta rareza, entrenar en cintas de correr mejoradas en tu base y gastar el dinero ganado en multiplicadores de entrenamiento de velocidad."
+        },
+        {
+          "question": "¿Se pueden intercambiar mascotas con otros jugadores en Steal and Hatch Anime Eggs?",
+          "answer": "Sí, Steal and Hatch Anime Eggs cuenta con mecánicas de intercambio en el centro principal, lo que permite a los jugadores intercambiar mascotas anime raras, huevos divinos y objetos de progresión."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Robar e Incubar Mascotas Anime Raras?",
+      "description": "Desde incubar tu primer huevo inicial hasta desbloquear legendarias mascotas divinas, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Leer la Guía de Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  }
+}

@@ -1,1 +1,446 @@
-{}
+{
+  "site": {
+    "name": "Steal and Hatch Anime Eggs Wiki",
+    "shortName": "Steal and Hatch Anime Eggs",
+    "tagline": "Kode, Pet, Telur, Strategi & Panduan",
+    "description": "Steal and Hatch Anime Eggs Wiki menyediakan kode Roblox, panduan pet, lokasi telur, pembaruan, strategi, dan tips pemula untuk menetaskan pet anime langka lebih cepat.",
+    "legalNotice": "Wiki penggemar tidak resmi. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "codes": "Kode",
+    "guide": "Panduan",
+    "mechanics": "Mekanik",
+    "items": "Item",
+    "progression": "Progresi",
+    "characters": "Karakter",
+    "community": "Komunitas",
+    "controls": "Kontrol"
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Mainkan di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan yang tersedia. Cek lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Steal and Hatch Anime Eggs Wiki",
+    "about": "Steal and Hatch Anime Eggs Wiki adalah pusat panduan independen buatan penggemar yang membahas lokasi telur, tingkatan pet, kode, strategi upgrade, dan gameplay simulator Roblox yang penting.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 Steal and Hatch Anime Eggs Wiki. Tidak berafiliasi dengan Roblox atau pengembang game.",
+    "description": "Wiki Simulator Anime Roblox. Kumpulkan telur, tetaskan pet anime legendaris, dan lakukan perdagangan.",
+    "playGame": "Mainkan di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Perencana Pet",
+    "beginnerGuide": "Panduan Pemula",
+    "raceGuides": "Panduan Ras",
+    "bossGuides": "Panduan Bos",
+    "buildGuide": "Panduan Build",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  },
+  "codes": {
+    "overviewTitle": "Kode Steal and Hatch Anime Eggs",
+    "overviewDescription": "Jelajahi semua kode redeem aktif dan terbaru untuk Steal and Hatch Anime Eggs untuk mendapatkan boost gratis, mata uang, dan hadiah menarik."
+  },
+  "guide": {
+    "overviewTitle": "Panduan Steal and Hatch Anime Eggs",
+    "overviewDescription": "Tutorial lengkap untuk pemula, panduan langkah demi langkah, dan strategi bermain Steal and Hatch Anime Eggs."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanik Steal and Hatch Anime Eggs",
+    "overviewDescription": "Penjelasan mendalam tentang mekanik inti game termasuk penetasan telur, stealth mencuri, event celah rift, dan pertarungan bos."
+  },
+  "items": {
+    "overviewTitle": "Item & Telur Steal and Hatch Anime Eggs",
+    "overviewDescription": "Indeks lengkap tingkat kelangkaan telur, telur divine, drop rahasia, dan item konsumsi di Steal and Hatch Anime Eggs."
+  },
+  "progression": {
+    "overviewTitle": "Progresi Steal and Hatch Anime Eggs",
+    "overviewDescription": "Rute leveling, cara cepat farming uang, dan hadiah pencapaian di Steal and Hatch Anime Eggs."
+  },
+  "characters": {
+    "overviewTitle": "Karakter & Pet Steal and Hatch Anime Eggs",
+    "overviewDescription": "Database lengkap pet anime, pendamping rahasia, status divine, dan karakteristik pendamping di Steal and Hatch Anime Eggs."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Steal and Hatch Anime Eggs",
+    "overviewDescription": "Server Discord resmi, pusat perdagangan, server privat, dan catatan pembaruan untuk Steal and Hatch Anime Eggs."
+  },
+  "controls": {
+    "overviewTitle": "Kontrol & Tutorial Steal and Hatch Anime Eggs",
+    "overviewDescription": "Skema kontrol PC dan seluler, tutorial awal bermain, dan panduan antarmuka untuk Steal and Hatch Anime Eggs."
+  },
+  "home": {
+    "meta": {
+      "title": "Steal and Hatch Anime Eggs Wiki — Kode, Telur, Pet & Panduan",
+      "description": "Panduan lengkap Steal and Hatch Anime Eggs di Roblox dengan kode aktif terbaru, lokasi telur, tier list pet anime, mekanik penetasan, dan tips latihan kecepatan."
+    },
+    "hero": {
+      "eyebrow": "Simulator Menetaskan Telur Anime Roblox",
+      "title": "Steal and Hatch Anime Eggs Wiki",
+      "description": "Steal and Hatch Anime Eggs adalah game simulator anime Roblox di mana pemain mengumpulkan telur, menetaskan pet anime kuat, menemukan makhluk langka, dan membangun tim lebih tangguh melalui peningkatan.",
+      "stats": [
+        "Simulator Roblox",
+        "Koleksi Pet Anime",
+        "Kode Aktif",
+        "Pembaruan Mingguan"
+      ],
+      "primaryCta": "Mainkan di Roblox",
+      "secondaryCta": "Panduan Pemula",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Media resmi"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Telusuri Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai Dari Sini",
+      "title": "Perjalanan Steal and Hatch Anime Eggs Anda",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari cara mencuri telur anime, menghindari penjaga, kembali dengan selamat ke markas, dan menetaskan pendamping yang kuat."
+        },
+        {
+          "number": "2",
+          "title": "Semua Kode Aktif",
+          "description": "Tukarkan kode promo aktif untuk mendapatkan uang gratis, peningkatan kecepatan, dan pengganda keberuntungan awal."
+        },
+        {
+          "number": "3",
+          "title": "Kecepatan & Uang Tercepat",
+          "description": "Berlatih di treadmill, tingkatkan kecepatan gerak, dan farming uang secara efisien untuk membuka zona tingkat lanjut."
+        },
+        {
+          "number": "4",
+          "title": "Penetasan Telur & Pet Divine",
+          "description": "Temukan lokasi spawn telur, syarat penetasan, dan peluang untuk mendapatkan unit anime rahasia dan divine."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Semua Kode Aktif",
+        "Daftar Telur Divine",
+        "Tier List Pet Anime"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Semua yang perlu Anda ketahui tentang mencuri telur, menghindari penjaga, dan progres awal markas.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Semua kode yang masih berlaku dengan uang gratis, dorongan kecepatan, dan pengganda keberuntungan penetasan.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Kelangkaan Telur & Telur Divine",
+          "description": "Daftar lengkap telur, bioma spawn, waktu penetasan, dan peluang telur rahasia.",
+          "href": "/items/steal-and-hatch-anime-eggs-divine-eggs"
+        },
+        {
+          "badge": "Populer",
+          "title": "Tier List Pet Anime",
+          "description": "Setiap unit anime yang bisa dikoleksi diperingkat berdasarkan pengali uang, bonus kecepatan, dan kelangkaan.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Progresi Kecepatan Tercepat",
+          "description": "Rute latihan treadmill terbaik, upgrade stamina, dan syarat membuka bioma baru.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way"
+        },
+        {
+          "badge": "Mekanik",
+          "title": "Panduan Cara Menetas",
+          "description": "Panduan langkah demi langkah ruang inkubasi markas, pengurangan waktu, dan pemasangan pet.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa itu Steal and Hatch Anime Eggs?",
+      "paragraphs": [
+        "Steal and Hatch Anime Eggs adalah game simulator anime Roblox seru di mana pemain menjelajahi zona telur berbahaya, mencuri telur anime langka, dan berlari kembali ke inkubator di markas. Tingkatkan kecepatan gerak dan treadmill Anda untuk mengungguli penjaga dan pemain lawan di berbagai bioma.",
+        "Tetaskan telur curian Anda untuk membuka pendamping anime legendaris, rahasia, dan divine yang menghasilkan uang pasif serta memberikan peningkatan atribut besar. Kuasai progresi kecepatan, kalahkan bos rift, dan bangun koleksi pet anime terbaik dengan panduan lengkap, tabel, dan strategi komunitas kami."
+      ],
+      "stats": [
+        {
+          "label": "Pengembang",
+          "value": "Studio Anime"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulator Anime"
+        },
+        {
+          "label": "Kelangkaan Telur",
+          "value": "Biasa hingga Divine"
+        },
+        {
+          "label": "Kode Aktif",
+          "value": "Diperbarui Mingguan"
+        },
+        {
+          "label": "Loop Inti",
+          "value": "Curi, Kecepatan, Tetaskan"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Wiki Steal and Hatch Anime Eggs",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Steal and Hatch Anime Eggs Kode",
+          "description": "Menyediakan kode redeem terbaru, kode event, dan info hadiah bagi pemain yang mencari boost atau item gratis.",
+          "href": "/codes/steal-and-hatch-anime-eggs-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RELEASE",
+              "detail": "Uang Gratis & Boost Kecepatan",
+              "badge": "Aktif"
+            },
+            {
+              "label": "ANIME",
+              "detail": "2x Pengganda Keberuntungan Menetas",
+              "badge": "Aktif"
+            },
+            {
+              "label": "DIVINE",
+              "detail": "100 Permata & Peluang Telur Rahasia",
+              "badge": "Aktif"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Steal and Hatch Anime Eggs Panduan Pemula",
+          "description": "Pelajari siklus dasar game: menyusup ke area telur, kembali ke markas, dan menetaskan pet anime pertama Anda.",
+          "href": "/guide/steal-and-hatch-anime-eggs-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Menyusup ke titik spawn telur dan ambil telur paling langka yang bisa Anda bawa"
+            },
+            {
+              "label": "2",
+              "detail": "Sprint kembali ke inkubator markas tanpa tertangkap oleh penjaga"
+            },
+            {
+              "label": "3",
+              "detail": "Masukkan telur ke dalam inkubator dan tunggu hitungan mundur selesai"
+            },
+            {
+              "label": "4",
+              "detail": "Pasang pet anime yang sudah menetas untuk meningkatkan penghasilan dan efisiensi latihan"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Steal and Hatch Anime Eggs Tier List Anime",
+          "description": "Bandingkan semua pet anime yang dapat dikoleksi berdasarkan pengali uang, peningkatan kecepatan, dan kelangkaan umum.",
+          "href": "/characters/steal-and-hatch-anime-eggs-anime-pets",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pet Divine & Rahasia dengan Pengali Uang 100x+"
+            },
+            {
+              "label": "A",
+              "detail": "Pet Legendaris & Mitos dengan bonus kecepatan dan penghasilan tinggi"
+            },
+            {
+              "label": "B",
+              "detail": "Pendamping Epik & Langka yang cocok untuk progresi tengah permainan"
+            },
+            {
+              "label": "C",
+              "detail": "Pet Biasa & Tidak Biasa awal untuk memulai penetasan"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Steal and Hatch Anime Eggs Daftar Telur",
+          "description": "Periksa setiap jenis telur, zona spawn, waktu tunggu menetas, dan biaya terkait.",
+          "href": "/items/steal-and-hatch-anime-eggs-divine-eggs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Biasa",
+              "detail": "Bioma Rumput Awal (10 detik waktu menetas, pengali standar)"
+            },
+            {
+              "label": "Langka",
+              "detail": "Zona Hutan (30 detik waktu menetas, 3x pengali uang)"
+            },
+            {
+              "label": "Epik",
+              "detail": "Bioma Gurun (60 detik waktu menetas, 10x pengali uang)"
+            },
+            {
+              "label": "Divine",
+              "detail": "Kuil Langit & Rift (300 detik waktu menetas, hadiah besar)"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Steal and Hatch Anime Eggs Cara Menetaskan",
+          "description": "Optimalkan waktu inkubasi di markas Anda menggunakan upgrade, permata, dan boost kecepatan.",
+          "href": "/mechanics/steal-and-hatch-anime-eggs-hatch",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Kosongkan slot inkubator di markas sebelum ekspedisi berburu telur"
+            },
+            {
+              "label": "2",
+              "detail": "Masukkan telur curian ke dalam ruang inkubasi yang aktif"
+            },
+            {
+              "label": "3",
+              "detail": "Gunakan boost kecepatan atau permata untuk memangkas durasi menunggu"
+            },
+            {
+              "label": "4",
+              "detail": "Tetaskan dan pasang pet ke dalam slot koleksi aktif Anda"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Steal and Hatch Anime Eggs Panduan Kecepatan",
+          "description": "Strategi latihan treadmill lengkap untuk meningkatkan kecepatan dan membuka bioma baru.",
+          "href": "/progression/steal-and-hatch-anime-eggs-fastest-way",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Treadmill",
+              "detail": "Latih pengali kecepatan pasif selama waktu santai"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Investasikan uang awal ke stamina dan kapasitas angkut"
+            },
+            {
+              "label": "Biomes",
+              "detail": "Penuhi syarat kecepatan lebih tinggi untuk masuk zona divine"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Steal and Hatch Anime Eggs Pembaruan",
+          "description": "Ikuti catatan patch terbaru, event musiman, dan penyesuaian keseimbangan agar selalu terinformasi.",
+          "href": "/community/steal-and-hatch-anime-eggs-update-log",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rift",
+              "detail": "Update 3 memperkenalkan Bos Rift dan penukaran token"
+            },
+            {
+              "label": "Divine",
+              "detail": "Telur Anime Divine baru ditambahkan dengan drop pet rahasia"
+            },
+            {
+              "label": "Balances",
+              "detail": "Tingkat latihan treadmill ditingkatkan di semua bioma"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Steal and Hatch Anime Eggs Discord & Komunitas",
+          "description": "Terhubung dengan komunitas pemain, bergabung dengan server Discord resmi, dan temukan mitra dagang.",
+          "href": "/community/steal-and-hatch-anime-eggs-discord-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "Server developer resmi untuk kode dan log pembaruan"
+            },
+            {
+              "label": "Roblox",
+              "detail": "Grup komunitas untuk hadiah harian anggota dan fasilitas menarik"
+            },
+            {
+              "label": "Trading",
+              "detail": "Pasar pemain untuk menukar pet langka dan divine"
+            }
+          ]
+        }
+      ],
+      "description": "Jelajahi kode aktif, panduan langkah demi langkah, tier list pet, dan database telur untuk Steal and Hatch Anime Eggs."
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban cepat untuk pertanyaan yang paling sering diajukan seputar Steal and Hatch Anime Eggs.",
+      "items": [
+        {
+          "question": "Apa itu Steal and Hatch Anime Eggs?",
+          "answer": "Steal and Hatch Anime Eggs adalah game simulator Roblox populer di mana pemain menyusup ke bioma telur, mencuri telur, membawanya dengan aman ke inkubator, dan menetaskan pet anime kuat untuk meningkatkan kecepatan dan pendapatan."
+        },
+        {
+          "question": "Bagaimana cara mendapatkan telur Divine dan Rahasia di Steal and Hatch Anime Eggs?",
+          "answer": "Di Steal and Hatch Anime Eggs, telur Divine dan Rahasia muncul di zona tingkat tinggi seperti Kuil Langit dan selama event Rift berbatas waktu. Anda memerlukan status kecepatan tinggi untuk menghindari penjaga dan membawanya pulang."
+        },
+        {
+          "question": "Di mana saya dapat menemukan kode aktif untuk Steal and Hatch Anime Eggs?",
+          "answer": "Anda dapat menemukan semua kode aktif dan terverifikasi untuk Steal and Hatch Anime Eggs di halaman Kode khusus kami. Kode memberikan uang gratis, boost kecepatan, dan pengganda keberuntungan penetasan."
+        },
+        {
+          "question": "Apa cara terbaik untuk meningkatkan level kecepatan di Steal and Hatch Anime Eggs?",
+          "answer": "Cara tercepat meningkatkan kecepatan di Steal and Hatch Anime Eggs adalah dengan memasang pet anime kelangkaan tinggi, berlatih di treadmill markas yang ditingkatkan, dan membelanjakan uang pada pengganda latihan kecepatan."
+        },
+        {
+          "question": "Apakah pemain bisa bertukar pet di Steal and Hatch Anime Eggs?",
+          "answer": "Ya, Steal and Hatch Anime Eggs menyediakan fitur trading di area hub utama, memungkinkan pemain untuk saling menukar pet anime langka, telur divine, dan item progresi."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Mencuri dan Menetaskan Pet Anime Langka?",
+      "description": "Mulai dari menetaskan telur pertama hingga membuka pet divine legendaris, wiki komunitas kami siap memandu Anda dengan panduan gratis dan terbaru.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Mainkan di Roblox"
+    }
+  }
+}
